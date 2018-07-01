@@ -11,9 +11,7 @@
         "theme",
         "template"
     ],
-    "scripts": {
-        "start": "gulp"
-    },
+
     "homepage": "https://startbootstrap.com/template-overviews/shop-homepage",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues",
@@ -35,5 +33,8 @@
     "devDependencies": {
         "browser-sync": "2.24.3",
         "gulp": "^3.9.1"
+    },
+    "scripts": {
+        "start": "gulp"
     }
 }
