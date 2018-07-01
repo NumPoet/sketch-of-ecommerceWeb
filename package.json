@@ -1,21 +1,32 @@
 {
-    "title": "intelimetrica test",
-    "name": "Sergio Negrete Villegas",
-    "version": "0.0.1",
-    "description": "Negocio especializado en recomendar y calificar restaurantes",
+    "title": "Shop Homepage",
+    "name": "startbootstrap-shop-homepage",
+    "version": "4.1.1",
+    "description": "A shop homepage HTML template built with Bootstrap",
     "keywords": [
-        "intelimetrica",
-        "test"
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
     ],
-    "homepage": "http://www.numpoet.com",
-    "scripts":{
+    "scripts": {
         "start": "gulp"
-        },
+    },
+    "homepage": "https://startbootstrap.com/template-overviews/shop-homepage",
+    "bugs": {
+        "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues",
+        "email": "feedback@startbootstrap.com"
+    },
     "license": "MIT",
-    "author": "Sergio Negrete Vllegas-numpoet",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/NumPoet/intelimetricaTest"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
